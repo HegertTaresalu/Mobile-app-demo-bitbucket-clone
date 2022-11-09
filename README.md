@@ -33,4 +33,5 @@ Kuidas käivatada?
 * Minimaalne API versioon mida meie rakendust toetab on API 28(android 9).
 
 
-* Commitid ei ole säilinud kuna see on imporditud bitbucketist
+
+
