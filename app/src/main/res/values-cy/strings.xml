@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoodDiary</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Ebost</string>
+    <string name="prompt_password">Cyfrinair</string>
+    <string name="action_sign_in">Mewn gyfnodwch</string>
+    <string name="welcome">Croeso!</string>
+    <string name="invalid_username">Nid yw\'r enw defnyddiwr yn addas</string>
+    <string name="invalid_password">Dylsai\'r cyfrinair fod yn 8 o gymeriaid neu mwy</string>
+    <string name="login_failed">Mewn gyfnodi wedi methu</string>
+    <string name="login">Mewn gyfnodi</string>
+    <string name="no_account">Heb gyfrif? Cofrestrwch fan hyn</string>
+    <string name="verify_pass">Verify password</string>
+    <string name="send_recovery">Send recovery email</string>
+    <string name="recovery_text">Rhowch eich ebost idod er mwyn i ni ddanfon ebost adfeiriad</string>
+    <string name="log_out">Allgofnodi</string>
+    <string name="error">Error%1$s</string>
+    <string name="bookmark_frag">Nod ysgyrn</string>
+    <string name="personal_hint">Nodiadau personol</string>
+    <string name="enter_email_hint">Bywdwch eich ebost</string>
+    <string name="forgot_pass_txt">Wedi anghofio eich cyfrinair?</string>
+    <string name="enter_password_hint">Rhowch eich cyfrinair</string>
+    <string name="enter_firstname_hint">Nodwch eich enw cyntaf</string>
+    <string name="registration_txt">Ffurflen cofrestri</string>
+    <string name="register">Cofrestrwch</string>
+    <string name="enter_username_hint">Rhowch eich enw defnyddiwr</string>
+    <string name="enter_surname_hint">Nodwch eich cyfenw</string>
+
+    <!-- Strings related to calendar -->
+    <string name="p_note_helper">Ysgrifennwch nodyn personol ochr yn ochr â rysáit y pryd</string>
+    <string name="add_to_calendar">Ychwanegwch rysáit i\'r calendr </string>
+    <string name="error_intent">Rydych yn colli ap sydd yn cyfnogi y nodwedd hon</string>
+    <string name="title">Teitl</string>
+    <string name="link">Cyswllt</string>
+
+    <!-- Strings related to navbar -->
+    <string name="username_navbar">%1$s</string>
+    <string name="full_name_navbar">%1$s</string>
+    <string name="navigation_drawer_open">Agor drôr mordwyo </string>
+    <string name="navigation_drawer_close">Cau\'r drôr mordwyo</string>
+    <string name="title_activity_navbar">NavbarActivity</string>
+    <string name="nav_header_desc">Pennawd mordwyo</string>
+    <string name="drawer_profile">Proffil</string>
+    <string name="drawer_browser">Porwr</string>
+    <string name="drawer_bookmarks">Nodau tudalen</string>
+    <string name="drawer_settings">Gosodiad</string>
+
+    <!-- Strings related to settings -->
+    <string name="dark_mode">Tywyll</string>
+    <string name="light_mode">Golau</string>
+    <string name="system_default">System gwreiddiol</string>
+    <string name="lang_english">English</string>
+    <string name="lang_estonian">Eesti</string>
+    <string name="lang_welsh">Cymraeg</string>
+
+
+    <string name="menu_home">Hafan</string>
+    <string name="menu_gallery">Oriel</string>
+    <string name="menu_slideshow">Pwynt pwer</string>
+    <string name="dishtype">Dim</string>
+    <string name="theme">Thema</string>
+    <string name="language">Iaith</string>
+</resources>

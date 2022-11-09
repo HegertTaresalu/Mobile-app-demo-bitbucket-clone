@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.LanguageFragment">
+
+    <RadioGroup
+        android:id="@+id/rgLanguages"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:checked="true"
+            android:id="@+id/btnEng"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:layoutDirection="rtl"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="@string/lang_english"
+            android:textAlignment="textStart"
+
+            />
+
+        <RadioButton
+            android:id="@+id/btnEst"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:layoutDirection="rtl"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="@string/lang_estonian"
+            android:textAlignment="textStart" />
+
+        <RadioButton
+            android:id="@+id/btnCym"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:layoutDirection="rtl"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="@string/lang_welsh"
+            android:textAlignment="textStart" />
+    </RadioGroup>
+</androidx.constraintlayout.widget.ConstraintLayout>

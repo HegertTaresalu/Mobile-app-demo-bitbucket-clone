@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoodDiary</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">E-post</string>
+    <string name="prompt_password">Parool</string>
+    <string name="action_sign_in">Logi sisse</string>
+    <string name="welcome">"Tere tulemast!"</string>
+    <string name="invalid_username">Pole kehtiv kasutajanimi</string>
+    <string name="invalid_password">Parool peab olema 8 või rohkem tähte</string>
+    <string name="login_failed">"Sisse logimine ebaõnnestus"</string>
+    <string name="login">Logi sisse</string>
+    <string name="no_account">Kontot pole? Registreeru siin</string>
+    <string name="verify_pass">Kontrolli parooli</string>
+    <string name="send_recovery">Saada taastamise email</string>
+    <string name="recovery_text">Sisestage oma e-post alla, et me saaksime saata teile taastamise e-kirja</string>
+    <string name="log_out">Logi välja</string>
+    <string name="error">Error%1$s</string>
+    <string name="bookmark_frag">Järjehoidja fragment</string>
+    <string name="personal_hint">Isiklikud märkmed</string>
+    <string name="enter_email_hint">Sisesta email</string>
+    <string name="forgot_pass_txt">Unustasid parooli?</string>
+    <string name="enter_password_hint">Sisesta parool</string>
+    <string name="enter_firstname_hint">Sisesta eesnimi</string>
+    <string name="registration_txt">Registreerimis vorm</string>
+    <string name="register">Registreeri</string>
+    <string name="enter_username_hint">Sisesta kasutajanimi</string>
+    <string name="enter_surname_hint">Sisesta perekonnanimi</string>
+
+    <!-- Strings related to calendar -->
+    <string name="p_note_helper">Kirjuta isiklik märge koos toidu retseptiga</string>
+    <string name="add_to_calendar">Lisa retsept kalendrisse</string>
+    <string name="error_intent">Teil puudub app, mis toetab seda funktsiooni</string>
+    <string name="title">Tiitel</string>
+    <string name="link">Link</string>
+
+    <!-- Strings related to navbar -->
+    <string name="username_navbar">%1$s</string>
+    <string name="full_name_navbar">%1$s</string>
+    <string name="navigation_drawer_open">Ava navigatsiooni sahtel</string>
+    <string name="navigation_drawer_close">Sule navigatsiooni sahtel</string>
+    <string name="title_activity_navbar">NavbarActivity</string>
+    <string name="nav_header_desc">Navigatsiooni päis</string>
+    <string name="drawer_profile">Profiil</string>
+    <string name="drawer_browser">Brauser</string>
+    <string name="drawer_bookmarks">Järjehoidjad</string>
+    <string name="drawer_settings">Sätted</string>
+
+    <!-- Strings related to settings -->
+    <string name="dark_mode">Tume režiim</string>
+    <string name="light_mode">Hele režiim</string>
+    <string name="system_default">Süsteemi vaikimisi</string>
+    <string name="lang_english">English</string>
+    <string name="lang_estonian">Eesti</string>
+    <string name="lang_welsh">Cymraeg</string>
+
+    <string name="menu_home">Kodu</string>
+<string name="menu_gallery">Galerii</string>
+<string name="menu_slideshow">Slaidiesitlus</string>
+<string name="dishtype">Puudub</string>
+<string name="theme">Teema</string>
+<string name="language">Keel</string>
+
+</resources>
